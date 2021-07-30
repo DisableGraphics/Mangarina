@@ -1,2 +1,2 @@
 # Mangarina
-Seamless-style manga reader
+Manga reader inspired heavily on the design of Mango.

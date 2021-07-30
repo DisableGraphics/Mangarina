@@ -1,0 +1,6 @@
+/home/disablegraphics/Projects/Mangarina/Mangarina/bin/Debug/Mangarina.exe
+/home/disablegraphics/Projects/Mangarina/Mangarina/bin/Debug/Mangarina.pdb
+/home/disablegraphics/Projects/Mangarina/Mangarina/obj/x86/Debug/Mangarina.csproj.AssemblyReference.cache
+/home/disablegraphics/Projects/Mangarina/Mangarina/obj/x86/Debug/Mangarina.csproj.CoreCompileInputs.cache
+/home/disablegraphics/Projects/Mangarina/Mangarina/obj/x86/Debug/Mangarina.exe
+/home/disablegraphics/Projects/Mangarina/Mangarina/obj/x86/Debug/Mangarina.pdb

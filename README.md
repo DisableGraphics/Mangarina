@@ -1,3 +1,7 @@
+# Abandon notice
+Currently, Mangarina is abandoned. <a href=https://github.com/DisableGraphics/Korai>Please take a look at its sucessor </a>
+
+
 # Mangarina
 Manga reader inspired heavily on the design of Mango.
 

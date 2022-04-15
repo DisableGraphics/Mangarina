@@ -1,5 +1,5 @@
 # Abandon notice
-Currently, Mangarina is abandoned. <a href=https://github.com/DisableGraphics/Korai>Please take a look at its sucessor </a>
+Mangarina has been abandoned. <a href=https://github.com/DisableGraphics/Korai>Please take a look at its sucessor </a>
 
 
 # Mangarina
